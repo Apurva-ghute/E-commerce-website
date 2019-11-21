@@ -1,5 +1,7 @@
 # e-commerce-website
 
+In img project folder there are images of how website looks
+
 
 Extract the files.
 
